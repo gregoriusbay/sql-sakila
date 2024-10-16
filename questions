@@ -7,5 +7,5 @@ MySQL questions:
 6. What is the total amount of each movie with 'SUSAN DAVIS' as their actor?
 7. Show the customer number of each country!
 8. How many customers are served in each country by staff with staff_id = 1?
-9. What is the country's most popular movie (and the total rent amount) starts with 'I'?
+9. What is the country's most popular movie (and the total rent amount) for the countries that start with 'I'?
 10. What are the top 10 most popular movies in Indonesia?
