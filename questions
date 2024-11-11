@@ -1,11 +1,16 @@
 MySQL questions:
-1. What are the films that are 100 to 150 minutes long? Order them by their duration!
+1. What are the films that released in 2006?
 2. How many movies represent each category?
-3. How many movies represent each language?
-4. What are the top 10 most popular actor based on their income?
-5. How many movies played by each actor?
+3. Which movies were only rented once?
+4. What are the movies rented in Jakarta? How many customers rent that movie?
+5. Who are the top customers in terms of both total rentals and total revenue?
 6. What is the total income of each movie with 'SUSAN DAVIS' as their actor?
-7. Show the customer number of each country!
-8. How many customers are served in each country by staff with staff_id = 1?
+7. What is each customer's last rental date?
+8. How many revenue on each month at staff_id = 1?
 9. What is the country's most popular movie (and the total rent amount) for the countries that start with 'I'?
-10. What are the top 10 most popular movies in Indonesia?
+10. What are the top 5 movies by revenue?
+11. 
+12.
+13.
+14.
+15.
